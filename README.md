@@ -1,2 +1,2 @@
-# sms-bomber
-sms bomb
+# call-sms-bomber
+bombers
